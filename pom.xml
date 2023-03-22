@@ -53,8 +53,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub alicekaerast Apache Maven Packages</name>
-            <url>https://maven.pkg.github.com/alicekaerast/maven-template-repo</url>
+            <name>LockBox4j</name>
+            <url>https://github.com/kpluas21/LockBox4j/</url>
         </repository>
     </distributionManagement>
 
